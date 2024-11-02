@@ -1,6 +1,6 @@
 # SpringSecurityWithWeb
 <h1>Spring Boot Security with In-Memory Authentication</h1><br><br>
-This project demonstrates a simple Spring Boot application with in-memory authentication using Spring Security. It showcases how to secure specific endpoints and render a custom HTML page upon successful login.<br><br>
+This project demonstrates a  Spring Boot application with in-memory authentication using Spring Security. It showcases how to secure specific endpoints and render a custom HTML page upon successful login.<br><br>
 **Features**<br>
 **In-Memory Authentication:**<br>
 
